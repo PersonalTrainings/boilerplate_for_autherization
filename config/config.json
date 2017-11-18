@@ -1,0 +1,9 @@
+{
+  "apiPrefix": "http://localhost:3090",
+  "port": "3090",
+  "db": {
+    "dbName": "auth",
+    "host": "localhost",
+    "port": 27017
+  }
+}
